@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on improving the readability and the science of MIMAS model<br>I am an environmental scientist<br>interested in webdesigning, statistics and data analysis.<br>
+I am currently working on improving the readability of the MIMAS model<br>I am an environmental scientist<br>interested in webdesigning, statistics and data analysis.<br>
 
 
 ## 🌐 Socials:
